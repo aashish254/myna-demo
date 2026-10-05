@@ -1,0 +1,4 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+gradio==6.29.1
+myna-engine==0.1.0
